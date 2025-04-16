@@ -196,7 +196,7 @@ color:var(--primary-light);
     justify-content: center;
     text-align: center;
     padding: 2rem;
-    background-color: rgba(0, 0, 0, 0.35) ;
+    background-color: rgba(0, 0, 0, 0.1) ;
     background-image: url("assets/teampage\ hero.jpeg");
     background-size: cover;
     background-position: center;
@@ -238,7 +238,7 @@ color:var(--primary-light);
     max-width: 60%;
     text-align: left;
     padding: 0rem;
-    
+    line-height: normal;
   
   }
   
